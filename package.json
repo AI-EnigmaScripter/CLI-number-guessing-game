@@ -1,0 +1,20 @@
+{
+  "name": "fgma1-cli-number-guessing",
+  "version": "5.2.1",
+  "description": "this is number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghulam fareed",
+  "license": "ISC",
+  "dependencies": {
+    "fgma1-cli-number-guessing": "^5.2.1",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
