@@ -1,6 +1,6 @@
 {
   "name": "fgma2-cli-number-guessing",
-  "version": "3.2.0",
+  "version": "3.2.7",
   "description": "this is number guessing game",
   "main": "index.js",
   "type": "module",
