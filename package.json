@@ -1,6 +1,6 @@
 {
   "name": "fgma2-cli-number-guessing",
-  "version": "3.2.7",
+  "version": "3.2.0",
   "description": "this is number guessing game",
   "main": "index.js",
   "type": "module",
@@ -11,7 +11,7 @@
   "author": "ghulam fareed",
   "license": "ISC",
   "dependencies": {
-    "fgma1-cli-number-guessing": "^5.2.1",
+    "fgma3-cli-number-guessing": "^5.2.1",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
